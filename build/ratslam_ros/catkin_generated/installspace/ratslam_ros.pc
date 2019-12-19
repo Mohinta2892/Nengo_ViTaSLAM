@@ -1,0 +1,8 @@
+prefix=/home/samia/rat_slam_david/install
+
+Name: ratslam_ros
+Description: Description of ratslam_ros
+Version: 0.0.1
+Cflags: -I/home/samia/rat_slam_david/install/include
+Libs: -L/home/samia/rat_slam_david/install/lib 
+Requires: message_runtime geometry_msgs std_msgs
